@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trendline/static/css/main.bfae49f6.css",
+    "main.js": "/trendline/static/js/main.d3745158.js",
+    "static/js/787.c461c5e8.chunk.js": "/trendline/static/js/787.c461c5e8.chunk.js",
+    "index.html": "/trendline/index.html",
+    "main.bfae49f6.css.map": "/trendline/static/css/main.bfae49f6.css.map",
+    "main.d3745158.js.map": "/trendline/static/js/main.d3745158.js.map",
+    "787.c461c5e8.chunk.js.map": "/trendline/static/js/787.c461c5e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfae49f6.css",
+    "static/js/main.d3745158.js"
+  ]
+}
